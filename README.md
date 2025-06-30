@@ -1,4 +1,4 @@
-# bottles-defect-analysis
+# Bottles Defects Analysis
 
 ## Overview
 
@@ -25,6 +25,10 @@ pip install -r requirements.txt
    - `detection.ipynb` for anomaly detection
    - `segmentation.ipynb` for defect segmentation
 
----
+## Credits
 
-> For all details on data, models, training, and results, please refer to the notebooks. Each step is thoroughly commented and explained inside.
+- **Author**: Michele Ventimiglia
+
+## License
+
+See the `LICENSE` file for details.
