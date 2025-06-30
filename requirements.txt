@@ -1,0 +1,8 @@
+albumentations
+matplotlib
+numpy
+opencv-python
+pillow
+pytorch_msssim
+scikit-image
+scikit-learn
